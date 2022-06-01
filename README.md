@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Blarson224@gmail.com**
 
-- ⚡ Fun fact **I'm a former music teacher, I love backpacking and playing Disc Golf.**
+- ⚡ Fun fact: **I'm a former music teacher, I love backpacking and playing Disc Golf.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
