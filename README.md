@@ -1,4 +1,3 @@
-![The web banner for Blake's Website.](https://blakelarson.dev/images/web-banner.jpg)
 <h3 align="center">I'm a full-stack developer from Santa Rosa.</h3>
 &nbsp;  
 
