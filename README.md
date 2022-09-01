@@ -1,4 +1,4 @@
-<h3 align="center">I'm a full-stack developer from Santa Rosa.</h3>
+<h3 align="center">I'm a full-stack developer from Santa Rosa, CA.</h3>
 &nbsp;  
 
 All of my projects are available at [Blakelarson.dev](https://blakelarson.dev/)
