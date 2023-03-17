@@ -8,7 +8,6 @@ Reach me at **Blarson224@gmail.com**
 Fun fact: **I'm a former music teacher 🎵, I love backpacking ⛺ and playing Disc Golf 🥏.**
  
 Connect with me:
-<p><a href="https://twitter.com/@blakelarson_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@blakelarson_" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/blakelarson-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blakelarson-dev" height="20" width="30" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
